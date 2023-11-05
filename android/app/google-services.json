@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242817659981",
+    "project_id": "accident-detection-4ab9e",
+    "storage_bucket": "accident-detection-4ab9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242817659981:android:cc51877df2d52d52ced804",
+        "android_client_info": {
+          "package_name": "com.example.crash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242817659981-41iojj9kt2ooujg1klkg79t96urepj5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYxIY5Y66xnVkkalUMh2Frc7cajI_A3mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242817659981-41iojj9kt2ooujg1klkg79t96urepj5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
